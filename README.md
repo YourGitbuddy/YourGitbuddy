@@ -1,8 +1,5 @@
 <h1 align="center">Hi I'm Mahesh  👋
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/YourGitbuddy/About-me-/main/file_0000000054e861f8b623a4361b73efb4.png" width="180" style="border-radius: 50%;" alt="Mahesh Profile Photo"/>
-</p>
-  (<a href="https://www.freelancer.com/u/opsvision">gitopsvision</a>)</h1>
+  </h1>
 <h3 align="center">💥 VFX Artist | 📷 Photographer | 🎬 Videographer | 🛠️ Graphic Designer | 🛠️ DevOps Engineer | 💻 .NET Developer | 🌐 Freelancer</h3>
 
 <p align="center">
