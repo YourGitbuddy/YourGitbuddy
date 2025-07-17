@@ -76,10 +76,6 @@ Menu Card (Cafe “You & Me”): Romantic themed menu with hanging hearts, moonl
   <a href="https://instagram.com/musafirmitra"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  📱 <b>Phone:</b> +91 7057773171  •  📧 <b>Email:</b> <a href="mailto:musaafirmitra@gmail.com">musaafirmitra@gmail.com</a>
-</p>
-
 ---
 
 ### 🤝 Let's Collaborate
