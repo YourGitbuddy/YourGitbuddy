@@ -77,6 +77,19 @@ Menu Card (Cafe “You & Me”): Romantic themed menu with hanging hearts, moonl
 </p>
 
 ---
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitBuddy&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitBuddy&layout=compact&theme=radical" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitBuddy&theme=radical" alt="GitHub Streak" />
+  <br/>
+
+</p>
 
 ### 🤝 Let's Collaborate
 
