@@ -3,8 +3,12 @@
 <h3 align="center">💥 VFX Artist | 📷 Photographer | 🎬 Videographer | 🛠️ Graphic Designer | 🛠️ DevOps Engineer | 💻 .NET Developer | 🌐 Freelancer</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6F61,100:FFB347&height=140&section=header&text=Welcome%20to%20My%20Creative%20World!&fontSize=28&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:801700,100:FF3200&height=140&section=header&text=Welcome%20to%20My%20Creative%20World!&fontSize=28&fontColor=fff" />
 </p>
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=pranav278&style=for-the-badge&color=blueviolet" alt="profile-views" />
 
 ---
 
