@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm Mahesh  👋
   </h1>
-<h3 align="center">💥 VFX Artist | 📷 Photographer | 🎬 Videographer | 🛠️ Graphic Designer | 🛠️ DevOps Engineer | 💻 .NET Developer | 🌐 Freelancer</h3>
+<h3 align="center">💥 VFX Compositor Artist | 📷 Photographer | 🎬 Videographer | 🎨 Graphic Designer | 🌐 Freelancer</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:801700,100:FF3200&height=140&section=header&text=Welcome%20to%20My%20Creative%20World!&fontSize=28&fontColor=fff" />
@@ -24,8 +24,7 @@
   <img src="https://img.shields.io/badge/VFX-ff5722?style=for-the-badge&logo=adobe-after-effects&logoColor=white"/>
   <img src="https://img.shields.io/badge/Photography-00bcd4?style=for-the-badge&logo=canon&logoColor=white"/>
   <img src="https://img.shields.io/badge/Videographer-ff4081?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
 </p>
 👥 Freelancer Summary (@gitopsvision):
@@ -49,8 +48,6 @@ Menu Card (Cafe “You & Me”): Romantic themed menu with hanging hearts, moonl
   <img src="https://img.shields.io/badge/Graphic_Design-CalArts-red?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GitHub_Mastery-Udemy-purple?style=for-the-badge&logo=github&logoColor=white"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Digital_Marketing-Google-blue?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
 ---
@@ -61,6 +58,8 @@ Menu Card (Cafe “You & Me”): Romantic themed menu with hanging hearts, moonl
   🧑‍💻 Freelancer (2022–Present)
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/silhouette-blue?style=for-the-badge&logo=silhouette&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NUKE-blue?style=for-the-badge&logo=nuke&logoColor=white"/>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white"/>
@@ -86,10 +85,6 @@ Menu Card (Cafe “You & Me”): Romantic themed menu with hanging hearts, moonl
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitBuddy&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitBuddy&layout=compact&theme=radical" alt="Top Languages" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitBuddy&theme=radical" alt="GitHub Streak" />
   <br/>
 
